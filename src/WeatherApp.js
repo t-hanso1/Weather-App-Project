@@ -117,7 +117,7 @@ export default class WeatherApp extends React.Component {
             </Typography>
           </CardContent>
         </Card>
-        <Typography variant="h6">Powered by MyWeatherApp</Typography>
+        <Typography variant="h6">Powered by OpenWeatherMap</Typography>
       </div>
     );
   }
